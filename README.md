@@ -1,0 +1,1 @@
+# Sals-shipping: Given the weight of an item, this algorithm calculates the cheapest shipping option and the price of each option. Information for the different pricings is taken from Learn Python 3, Codecademy.
